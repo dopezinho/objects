@@ -14,3 +14,9 @@ console.log(playa.idage)
 console.log(playa.racho)
 playa.Gadou(1)
 console.log(playa.racho)
+
+playa.ropinha = 'rasgada'
+console.log(playa)
+
+delete playa.idage
+console.log(playa)
