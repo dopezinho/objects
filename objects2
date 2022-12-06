@@ -1,0 +1,16 @@
+let ropinha = 'all black from head to toe'
+
+let playa = {
+    nominho: 'Nereida',
+    ropinha
+
+}
+
+playa.mood = ['u cant', 'see me', 'inside', 'the club']
+
+console.log(playa)
+
+console.log(playa.mood[0])
+console.log(playa.mood[1])
+console.log(playa.mood[2])
+console.log(playa.mood[3])
